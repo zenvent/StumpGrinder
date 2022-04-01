@@ -1,0 +1,9 @@
+{
+  "name": "Stump_Grinder",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/zenvent/StumpGrinder",
+  "description": "Destroy stumps and shrubs in Valheim easily.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1900"
+  ]
+}
